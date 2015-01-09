@@ -1,9 +1,5 @@
 Base of this script was derived from: [this page](https://gist.github.com/dlo/7177249)
 
-# Code
-
-
-
 # Instructions
 1. Install python library [Requests](http://docs.python-requests.org/en/latest/user/install/)
 
