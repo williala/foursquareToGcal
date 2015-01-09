@@ -9,6 +9,7 @@ Base of this script was derived from: [this page](https://gist.github.com/dlo/71
 
 4. For good measure, verify the CSV output (in same directory) looks right: `head checkins.csv`
 
-5. Create a new calendar to load your history. **You can bulk import, but you CANNOT bulk delate, other than deleting the entire calendar.**
+5. Create a new calendar in Google. **You can bulk import, but you CANNOT bulk delate without deleting the entire calendar.**
 
-6. **Other Calendars** -> **Import Calendar**. Select which calendar you want to load and the CSV file. 
+6. Do the import. **Other Calendars** -> **Import Calendar**. Select the calendar name you want to load and the CSV file. 
+
